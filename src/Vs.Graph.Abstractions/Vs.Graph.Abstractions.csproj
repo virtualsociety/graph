@@ -2,6 +2,35 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageId>Vs.Graph.Abstractions</PackageId>
+    <Authors>Sjef van Leeuwen</Authors>
+    <Company>Virtual Society</Company>
+    <Product>Virtual Society Graph</Product>
+    <PackageProjectUrl>https://github.com/virtualsociety/graph</PackageProjectUrl>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <RepositoryUrl>>https://github.com/virtualsociety/graph</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags></PackageTags>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Title>Virtual Society Graph</Title>
+    <Description>Virtual Society Graph Infrastructure is used for, storing, querying and loading complex synthesized data and its structure for its simulations.</Description>
+    <NeutralLanguage></NeutralLanguage>
+    <Copyright>Copyright (c) 2020 Sjef van Leeuwen</Copyright>
+    <PackageIcon>logo-256-blue.png</PackageIcon>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageReleaseNotes></PackageReleaseNotes>
   </PropertyGroup>
-
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\doc\img\logo-256-blue.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 </Project>

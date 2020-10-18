@@ -20,7 +20,7 @@
     <Copyright>Copyright (c) 2020 Sjef van Leeuwen</Copyright>
     <PackageIcon>logo-256-blue.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageVersion>0.0.1</PackageVersion>
+    <PackageVersion>1.0.0</PackageVersion>
     <PackageReleaseNotes></PackageReleaseNotes>
   </PropertyGroup>
 
