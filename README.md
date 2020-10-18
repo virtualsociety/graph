@@ -1,4 +1,5 @@
 # graph
+[![nuget](https://img.shields.io/nuget/v/Vs.Graph)](https://www.nuget.org/packages/Vs.Graph/)
 
 Virtual Society Graph Infrastructure is used for, storing, querying and loading complex synthesized data and its structure for its simulations.
 
